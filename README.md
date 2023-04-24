@@ -84,6 +84,8 @@ docker-compose -f docker-compose.prod.yml up
 
 ### Unit Test
 Here I only created one unit test for demo
+
 > client/src/components/NavBar/NavBar.test.js
+
 Run
 - npm test
