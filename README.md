@@ -27,8 +27,13 @@ This project was created using the following technologies.
 MongoDB (MongoDB Atlas)
 
 ## Key Features
-
-- Guests can only pickup future date
+- Login signup with your role Customer/Admin
+- Guests (Customer) can create/update/cancel their reservations
+- Restaurant employees (Admin) can create/update/cancel all reservations
+- List Table Reservations
+- Reservation details
+## ToDo
+- Guests can only pickup future date ()
 - Guests can't change if reservation cancelled or overdue
 - Add CronJob auto update reservation overdue
 - Add Store/Hotel field
